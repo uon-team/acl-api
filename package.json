@@ -13,6 +13,7 @@
     "peerDependencies": {
         "@uon/core": "^0.9.1",
         "@uon/router": "^0.9.1",
+        "@uon/model": "^0.9.1",
         "@uon/http": "^0.9.1",
         "@uon/db": "^0.9.1",
         "@uon/auth-api": "^1.0.2"
