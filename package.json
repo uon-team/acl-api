@@ -1,0 +1,23 @@
+{
+    "name": "acl-api",
+    "version": "1.0.0",
+    "description": "",
+    "main": "dist/index.js",
+    "types": "dist/index.d.ts",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "peerDependencies": {
+        "@uon/core": "^0.9.1",
+        "@uon/router": "^0.9.1",
+        "@uon/http": "^0.9.1",
+        "@uon/db": "^0.9.1",
+        "@uon/auth-api": "^1.0.2"
+    },
+    "devDependencies": {
+        "@types/node": "^10.11.0"
+    }
+}

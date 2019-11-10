@@ -1,0 +1,9 @@
+{
+    "$schema": "https://uon.io/schemas/uon.json",
+    "name": "acl-api",
+    "projectType": "library",
+    "entry": "src/index.ts",
+    "options": {
+        "outputPath": "dist"
+    }
+}
